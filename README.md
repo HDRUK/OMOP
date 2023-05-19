@@ -14,8 +14,9 @@ The purpose of these pages is to provide a community resource for sharing inform
 - [HDR Alliance Data Standards](https://ukhealthdata.org/projects/data-standards-and-quality/)
 
 # Useful tools
-- OHDSI Stack
-- HDR GitHub
-- 
+- [OHDSI Stack](https://www.ohdsi.org/software-tools/)
+- [HDR UK GitHub](https://github.com/HDRUK)
+- [CaRROT-Mapper](https://github.com/HDRUK/CaRROT-Mapper)
+- [CaRROT-CDM](https://github.com/HDRUK/CaRROT-CDM)
 
 # Events
