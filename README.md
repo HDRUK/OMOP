@@ -15,5 +15,7 @@ The purpose of these pages is to provide a community resource for sharing inform
 
 # Useful tools
 - OHDSI Stack
+- HDR GitHub
+- 
 
 # Events
