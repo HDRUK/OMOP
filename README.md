@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OMOP Site Test"
+title: "Home"
 permalink: /
 ---
 {% include header.md %}
