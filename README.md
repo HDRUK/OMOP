@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "OMOP Site Test"
 permalink: /
 ---
