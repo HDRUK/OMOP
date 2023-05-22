@@ -3,8 +3,7 @@ layout: default
 title: "OMOP Site Test"
 permalink: /
 ---
-[![Alliance Logo](https://ukhealthdata.org/wp-content/themes/hdruk-child/assets/img/logo.svg)](https://ukhealthdata.org/)
-
+{% include header.md %}
 Community resources for OMOP users in the UK.
 
 # Introduction
