@@ -13,10 +13,11 @@ The [OMOP CDM](https://www.ohdsi.org/data-standardization/) is a standardised he
 
 The purpose of these pages is to provide a community resource for sharing information, tools, and experiences about the process of mapping data sets to the OMOP Common Data Model.
 
-# Community Sites
-- [OHDSI](https://www.ohdsi.org/)
-- [EHDEN](https://www.ehden.eu/)
-- [HDR Alliance Data Standards](https://ukhealthdata.org/projects/data-standards-and-quality/)
+- The [communities](community) page links to online communities that are involved in developing the OMOP CDM and supporting its deployment.
+- The Tools page shares information on software tools that can support the mpaaing of data sets into OMOP
+- The Events page links to future events that may be of interest to the OMOP community
+- The Governance page shares information about data governance relevant to the use of the OMOP CDM
+
 
 # Useful tools
 - [OHDSI Stack](https://www.ohdsi.org/software-tools/)
