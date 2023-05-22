@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "OMOP Community Pages"
-permalink: /community
+permalink: /
 ---
 # OMOP Site Test
 [![Alliance Logo](https://ukhealthdata.org/wp-content/themes/hdruk-child/assets/img/logo.svg)](https://ukhealthdata.org/)
