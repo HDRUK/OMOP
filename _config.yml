@@ -4,3 +4,6 @@ description: Resources for the UK community engaged in mapping health data to OM
 header_pages:
   - README.md
   - community.md
+  - events.md
+  - tools.md
+  - governance.md
