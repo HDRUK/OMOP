@@ -18,10 +18,4 @@ The purpose of these pages is to provide a community resource for sharing inform
 - The Governance page shares information about data governance relevant to the use of the OMOP CDM
 
 
-# Useful tools
-- [OHDSI Stack](https://www.ohdsi.org/software-tools/)
-- [HDR UK GitHub](https://github.com/HDRUK)
-- [CaRROT-Mapper](https://github.com/HDRUK/CaRROT-Mapper)
-- [CaRROT-CDM](https://github.com/HDRUK/CaRROT-CDM)
-
 # Events
