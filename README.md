@@ -4,7 +4,6 @@ title: "Home"
 permalink: /
 ---
 {% include header.md %}
-Community resources for OMOP users in the UK.
 
 # Introduction
 The [OMOP CDM](https://www.ohdsi.org/data-standardization/) is a standardised health data model that is maintained by the [OHDSI programme](https://www.ohdsi.org/) and adopted by an increasing number of healthcare organisations worldwide. The standard consists of data tables and vocabularies that encompass most types of data that occur in medical practice. Mapping to the CDM involves the creation of a data conversion software pipeline or ETL process that can be run to create a new database in the OMOP CDM format.
