@@ -3,6 +3,8 @@ layout: default
 title: "Events"
 permalink: /events
 ---
+{% include header.md %}
+
 # Events of interest to the OMOP user community
 
 | Event | Dates | Venue |
