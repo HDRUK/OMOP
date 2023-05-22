@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "OMOP Community Pages"
+title: "Communities"
 permalink: /community
 ---
 # Pages from the global OMOP users' community
