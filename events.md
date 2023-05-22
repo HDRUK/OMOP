@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "OMOP Software Tools"
-permalink: /tools
+title: "OMOP Events"
+permalink: /events
 ---
 # Events of interest to the OMOP user community
 | Event | Dates | Venue |
