@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "OMOP Community Pages"
 permalink: /community
 ---
