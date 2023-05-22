@@ -1,9 +1,8 @@
 ---
 layout: page
-title: "OMOP Community Pages"
+title: "OMOP Site Test"
 permalink: /
 ---
-# OMOP Site Test
 [![Alliance Logo](https://ukhealthdata.org/wp-content/themes/hdruk-child/assets/img/logo.svg)](https://ukhealthdata.org/)
 
 Community resources for OMOP users in the UK.
