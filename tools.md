@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "OMOP Software Tools"
 permalink: /tools
 ---
