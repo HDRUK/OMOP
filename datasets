@@ -1,0 +1,10 @@
+---
+layout: default
+title: "Data Sets"
+permalink: /datasets
+---
+{% include header.md %}
+# OMOP data sets
+A number of UK data sets have been mapped to the Common Data Model. Information about some of them can be found here.
+
+- The [EHDEN Portal](https://portal.ehden.eu/) includes information about many of the data sets that have been mapped to the CDM by [EHDEN Data Partners](https://www.ehden.eu/datapartners/).
