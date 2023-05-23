@@ -12,8 +12,11 @@ Mapping health data to a common data model facilitates data analysis, code re-us
 
 The purpose of these pages is to provide a community resource for sharing information, tools, and experiences about the process of mapping data sets to the OMOP Common Data Model.
 
-- The [communities](community) page links to online communities that are involved in developing the OMOP CDM and supporting its deployment.
+- The [Communities](community) page links to online communities that are involved in developing the OMOP CDM and supporting its deployment.
 - The [Tools](tools) page shares information on software tools that can support the mapping of data sets into OMOP
 - The [Events](events) page links to future events that may be of interest to the OMOP community
 - The [Governance](governance) page shares information about data governance relevant to the use of the OMOP CDM.
 - The [Data Sets](datasets) page has information about some example data sets that use the CDM.
+
+# Contributing
+To contribute to this site, go to the [site repository](https://github.com/AlexKnightHDR/OMOP) on GitHub and submit a pull request. This is a [GitHub pages](https://docs.github.com/en/pages/quickstart) site using [Jekyll](https://jekyllrb.com/). 
