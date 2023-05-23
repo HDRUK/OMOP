@@ -12,7 +12,5 @@ Several tools have been developed under the [Co-Connect](https://co-connect.ac.u
 - [CaRROT-Mapper](https://github.com/HDRUK/CaRROT-Mapper)
 - [CaRROT-CDM](https://github.com/HDRUK/CaRROT-CDM)
 
-Other tools of interest include the Data Build Tool:
-- [dbt](https://www.getdbt.com/)
 
 
