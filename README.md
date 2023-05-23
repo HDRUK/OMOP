@@ -16,3 +16,4 @@ The purpose of these pages is to provide a community resource for sharing inform
 - The [Tools](tools) page shares information on software tools that can support the mapping of data sets into OMOP
 - The [Events](events) page links to future events that may be of interest to the OMOP community
 - The [Governance](governance) page shares information about data governance relevant to the use of the OMOP CDM.
+- The [Data Sets](datasets) page has information about some example data sets that use the CDM.
