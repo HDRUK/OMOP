@@ -20,5 +20,6 @@ The purpose of these pages is to provide a community resource for sharing inform
 
 # Contributing
 To contribute to this site, either:
-1. Go to the [site repository]([https://github.com/HDRUK/OMOP](https://github.com/HDRUK/OMOP)) on GitHub and submit a pull request. This is a [GitHub pages](https://docs.github.com/en/pages/quickstart) site using [Jekyll](https://jekyllrb.com/). Pages are written in the simple markup language [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), _or_,
-2. Message [alex.knight@hdruk.ac.uk](mailto:alex.knight@hdruk.ac.uk) with suggestions, or content to add to the site.
+1. Go to the [site repository](https://github.com/HDRUK/OMOP) on GitHub and submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). This is a [GitHub pages](https://docs.github.com/en/pages/quickstart) site using [Jekyll](https://jekyllrb.com/). Pages are written in the simple markup language [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), _or_,
+2. Raise an [issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue), _or_,
+3. Message [alex.knight@hdruk.ac.uk](mailto:alex.knight@hdruk.ac.uk) with suggestions, or content to add to the site.
