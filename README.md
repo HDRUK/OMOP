@@ -19,4 +19,6 @@ The purpose of these pages is to provide a community resource for sharing inform
 - The [Data Sets](datasets) page has information about some example data sets that use the CDM.
 
 # Contributing
-To contribute to this site, go to the [site repository]([https://github.com/AlexKnightHDR/OMOP](https://github.com/HDRUK/OMOP)) on GitHub and submit a pull request. This is a [GitHub pages](https://docs.github.com/en/pages/quickstart) site using [Jekyll](https://jekyllrb.com/). 
+To contribute to this site, either:
+1. Go to the [site repository]([https://github.com/AlexKnightHDR/OMOP](https://github.com/HDRUK/OMOP)) on GitHub and submit a pull request. This is a [GitHub pages](https://docs.github.com/en/pages/quickstart) site using [Jekyll](https://jekyllrb.com/). Pages are written in the simple markup language [Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), _or_,
+2. Message alex.knight@hdruk.ac.uk with suggestions or content to add to the site.
