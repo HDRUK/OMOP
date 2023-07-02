@@ -18,9 +18,9 @@ permalink: /template
 | --- | --- |
 | Lead Organisation | *\[link to website\]* |
 | Partner Organisation(s) | *Any SMEs or other partners you are working with* |
-| Lead contact(s): | *Who to get in touch with about the project* |
+| Lead contact(s): | *Who to get in touch with about the project and how* |
 | Data sets to be mapped: | *Please give a description of the data sets you are mapping* |
 | Software you are using: | *e.g. White Rabbit, Carrot Mapper, etc.* |
-| Context: | *Why are you doing this work? How is it funded?* |
-| Comments: | *Any other comments you wish to share* |
+| Context: | *Why are you doing this work? How is it funded? (e.g. EHDEN project)* |
+| Comments: | *Any other comments you wish to share? Any requests or offers of collaboration?* |
 
