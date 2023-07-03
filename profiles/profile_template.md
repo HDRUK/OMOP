@@ -5,7 +5,7 @@ permalink: /template
 ---
 {% include header.md %}
 
-*This is a template for a profile of an organisation's OMOP transformation projects. Please delete all italicised text.*
+*This is a template for a profile of an organisation's OMOP transformation projects. Please copy this template and complete with your information, deleting all italicised text.*
 
 # *OMOP Mapping Profile*
 - *This profile captures key facts about the OMOP transformation activities being carried out by an organisation*
