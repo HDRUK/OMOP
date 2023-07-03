@@ -12,6 +12,7 @@ Mapping health data to a common data model facilitates data analysis, code re-us
 
 The purpose of these pages is to provide a community resource for sharing information, tools, and experiences about the process of mapping data sets to the OMOP Common Data Model.
 
+- The [Profiles](profiles) page links to ongoing OMOP mapping projects in the UK - look for opportunities to collaborate and share information here! (Please add your project if it's not here yet).
 - The [Communities](community) page links to online communities that are involved in developing the OMOP CDM and supporting its deployment.
 - The [Tools](tools) page shares information on software tools that can support the mapping of data sets into OMOP
 - The [Events](events) page links to future events that may be of interest to the OMOP community
