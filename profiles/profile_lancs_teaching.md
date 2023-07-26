@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Profile of Lancashire Teaching Hospitals NHS Foundation Trust OMOP mapping project(s)"
-permalink: /template
+permalink: /profiles/lancs_teaching
 ---
 {% include header.md %}
 
